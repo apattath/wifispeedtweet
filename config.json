@@ -1,0 +1,24 @@
+{
+    "bandwidth":{
+        "download": "50",
+        "upload": "10"
+    },
+    "twitter":
+    {
+        "twitter_token": "28704651-NxbBnJXy1xx8TX0USxE98MyZx6qhLpakwYeFCTApy",
+        "twitter_consumer_key": "MQrFjRn8EKuyIxQRrqvlHDT57",
+        "twitter_token_secret": "WanVR8CSTu4l5sF2celGvYzc9i7pz9C5fXlNndV954w2c",
+        "twitter_consumer_secret": "V0kysU5PkB9zPk8rXRtVEQrkfl3hag8tKKZc93Y4kqU0VsJtqb"
+    },
+    "margin": ".7",
+    "isp": "@FrontierCorp",
+    "log":
+    {
+        "name": "wifispeedtweet.log"
+    },
+    "driver":
+    {
+        "type" : "firefox",
+        "binary" : "C:\\Program Files (x86)\\Mozilla Firefox"
+    }
+}
