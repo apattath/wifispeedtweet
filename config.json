@@ -18,7 +18,7 @@
     },
     "driver":
     {
-        "type" : "firefox",
-        "binary" : "C:\\Program Files (x86)\\Mozilla Firefox"
+        "type" : "chrome",
+        "binary" : "/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe"
     }
 }
